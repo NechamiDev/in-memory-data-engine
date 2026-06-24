@@ -7,12 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Conditions\" />
-    <Folder Include="Client\" />
-    <Folder Include="Operations\" />
-    <Folder Include="Logging\" />
-    <Folder Include="TableDefintion\" />
-  </ItemGroup>
-
 </Project>
